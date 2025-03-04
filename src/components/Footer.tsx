@@ -15,7 +15,7 @@ export function Footer() {
         <div className="flex flex-col items-center gap-6">
           <div className="text-center">
             <span className="text-xl font-serif text-dark-600">
-              ESSENCE
+              KEN COACHING
             </span>
           </div>
 
@@ -38,7 +38,7 @@ export function Footer() {
           </div>
 
           <p className="text-dark-600/40 text-sm">
-            © {new Date().getFullYear()} Essence. Tous droits réservés.
+            © {new Date().getFullYear()} Dany XIONG. All rights reserved.
           </p>
         </div>
       </div>
